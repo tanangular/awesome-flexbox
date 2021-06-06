@@ -8,6 +8,7 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 
 ## Table of Contents
 * [W3C Specification](#w3c-specification)
+* [CSS Box Alignment Module Level 3](https://www.w3.org/TR/css-align-3/#alignment-container)
 * [Newsletter](#newsletter)
 * [Books](#books)
 * [Guides](#guides)
