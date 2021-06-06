@@ -76,6 +76,8 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 * [Normalizing cross-browser Flexbox bugs](http://philipwalton.com/articles/normalizing-cross-browser-flexbox-bugs/)
 * [Using flexbox: mixing old and new for the best browser support](https://css-tricks.com/using-flexbox/)
 * [Using Modernizr with Flexbox](http://zomigi.com/blog/using-modernizr-with-flexbox/?utm_campaign=CSS%2BLayout%2BNews&utm_medium=email&utm_source=CSS_Layout_News_8)
+* [Flexbox and absolute positioning](https://chenhuijing.com/blog/flexbox-and-absolute-positioning/)
+* [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 #### Support
 * [Caniuse](http://caniuse.com/flexbox)
